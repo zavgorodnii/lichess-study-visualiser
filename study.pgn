@@ -1,0 +1,318 @@
+[Event "whitemood: Philidor Defense: 3. ... exd4 4. ... Nf6"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... exd4 4. ... Nf6"]
+[UTCDate "2025.06.29"]
+[UTCTime "12:22:03"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/Aov5cb8X"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 { [%cal Ge5d4] } 4. Nxd4 Nf6 5. Nc3 Be7 6. Bf4 O-O 7. Qd2 { [%cal Ge1c1,Gf2f3,Gg2g4,Gh2h4] } *
+
+
+[Event "whitemood: Philidor Defense: 3. ... exd4 4. ... c5 5. ... Bd7"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... exd4 4. ... c5 5. ... Bd7"]
+[UTCDate "2025.06.29"]
+[UTCTime "12:28:07"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/beFbb8cu"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 { [%cal Ge5d4] } 4. Nxd4 c5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. Nf5 { [%cal Gb1c3,Gc1f4] } 7... g6 8. Ne3 { [%cal Gb1c3,Ge3d5,Gc1f4,Gd1d2] } *
+
+
+[Event "whitemood: Philidor Defense: 3. ... exd4 4. ... c5 5. ... Nd7"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... exd4 4. ... c5 5. ... Nd7"]
+[UTCDate "2025.06.29"]
+[UTCTime "12:32:21"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/tiU4jMri"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 c5 5. Bb5+ Nd7 6. Nf5 a6 7. Bxd7+ Qxd7 8. O-O g6 9. Ne3 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nc6 4. ... exd4"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nc6 4. ... exd4"]
+[UTCDate "2025.06.29"]
+[UTCTime "12:34:31"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/VO50Y5O5"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. Nc3 exd4 (4... Nf6) 5. Nxd4 Nf6 6. Bb5 Bd7 7. Bxc6 bxc6 8. Bf4 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nc6 4. ... Nf6"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense, Nimzowitsch Attack"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nc6 4. ... Nf6"]
+[UTCDate "2025.06.29"]
+[UTCTime "12:42:20"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/ft8fbQ3S"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. Nc3 Nf6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Qe2 exd4 8. Nxd4 Be7 9. Bf4 O-O 10. O-O-O { [%cal Gf2f3,Gg2g4,Gh2h4] } *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nd7 4. ... Ngf6 5. ... dxe5"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nd7 4. ... Ngf6 5. ... dxe5"]
+[UTCDate "2025.06.29"]
+[UTCTime "12:53:09"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/2yNcceXm"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Ngf6 5. dxe5 dxe5 6. Ng5 Qe7 7. Bxf7+ Kd8 8. Ne6+ *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nd7 4. ... Ngf6 5. ... Nxe5 7. ... Ke7"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nd7 4. ... Ngf6 5. ... Nxe5 7. ... Ke7"]
+[UTCDate "2025.06.29"]
+[UTCTime "13:03:59"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/F8uZq8RE"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 { [%csl Gf7] } 4... Ngf6 5. dxe5 Nxe5 6. Nxe5 dxe5 7. Bxf7+ Ke7 8. Qxd8+ Kxd8 9. Nc3 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nd7 4. ... Ngf6 5. ... Nxe5 7. ... Kxd7"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nd7 4. ... Ngf6 5. ... Nxe5 7. ... Kxd7"]
+[UTCDate "2025.06.29"]
+[UTCTime "13:08:19"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/arHmAQZ7"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Ngf6 5. dxe5 Nxe5 6. Nxe5 dxe5 7. Bxf7+ Kxf7 8. Qxd8 Bb4+ 9. Qd2 Bxd2+ 10. Nxd2 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nd7 4. ... Ngf6 5. ... Nxe4"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nd7 4. ... Ngf6 5. ... Nxe4"]
+[UTCDate "2025.06.29"]
+[UTCTime "13:10:21"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/j3MgsAiE"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Ngf6 5. dxe5 Nxe4 6. Qd5 *
+
+
+[Event "whitemood: Philidor Defense: ! 3. ... Nd7 4. ... Bd7 5. ... dxe5"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "! 3. ... Nd7 4. ... Bd7 5. ... dxe5"]
+[UTCDate "2025.06.29"]
+[UTCTime "13:16:14"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/4Invbtgk"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. dxe5 dxe5 6. Qd5 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nd7 4. ... Bd7 5. ... Nxe5"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nd7 4. ... Bd7 5. ... Nxe5"]
+[UTCDate "2025.06.29"]
+[UTCTime "13:19:14"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/iwBJEhk9"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. dxe5 Nxe5 6. Nxe5 dxe5 7. Qh5 g6 8. Qxe5 Nf6 9. Bh6 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nd7 4. ... c6 6. ... dxe5 7. ... Bxg5"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation, Steiner Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nd7 4. ... c6 6. ... dxe5 7. ... Bxg5"]
+[UTCDate "2025.06.29"]
+[UTCTime "13:22:21"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/BtNmlR3H"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. dxe5 dxe5 7. Ng5 Bxg5 8. Qh5 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nd7 4. ... c6 6. ... dxe5 7. ... Nh6"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation, Steiner Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nd7 4. ... c6 6. ... dxe5 7. ... Nh6"]
+[UTCDate "2025.06.29"]
+[UTCTime "13:32:43"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/tmDvyEFM"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. dxe5 dxe5 7. Ng5 Nh6 8. Ne6 fxe6 9. Bxh6 gxh6 10. Qh5+ Kf8 11. Bxe6 Qe8 12. Qxh6# *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nd7 4. ... c6 6. ... Nxe5"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation, Steiner Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nd7 4. ... c6 6. ... Nxe5"]
+[UTCDate "2025.06.29"]
+[UTCTime "13:30:16"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/kJ4FpIfE"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. dxe5 Nxe5 7. Nxe5 dxe5 8. Qh5 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Bg4 4. ... dxe5"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Bg4 4. ... dxe5"]
+[UTCDate "2025.06.29"]
+[UTCTime "14:40:40"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/9dk7lMOc"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nxe5 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Bg4 4. ... Bxf3"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Bg4 4. ... Bxf3"]
+[UTCDate "2025.06.29"]
+[UTCTime "14:42:49"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/RuhrFdZP"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nf6 5. ... Bf5"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Nimzowitsch Variation, Rellstab Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nf6 5. ... Bf5"]
+[UTCDate "2025.06.29"]
+[UTCTime "14:47:06"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/wK4SLH1m"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Bf5 6. Qxb7 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nf6 5. ... Nc5 6. ... f6"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Nimzowitsch Variation, Rellstab Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nf6 5. ... Nc5 6. ... f6"]
+[UTCDate "2025.06.29"]
+[UTCTime "14:49:46"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/jCnc6dZy"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 f6 7. exf6 gxf6 8. Be3 { [%cal Gd5h5] } *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nf6 5. ... Nc5 6. ... Be7 7. ... cxd6"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Nimzowitsch Variation, Rellstab Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nf6 5. ... Nc5 6. ... Be7 7. ... cxd6"]
+[UTCDate "2025.06.29"]
+[UTCTime "14:51:45"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/qTDpba9x"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Be7 7. exd6 cxd6 8. Nc3 *
+
+
+[Event "whitemood: Philidor Defense: 3. ... Nf6 5. ... Nc5 6. ... Be7 7. ... Qxd6"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Nimzowitsch Variation, Rellstab Variation"]
+[StudyName "whitemood: Philidor Defense"]
+[ChapterName "3. ... Nf6 5. ... Nc5 6. ... Be7 7. ... Qxd6"]
+[UTCDate "2025.06.29"]
+[UTCTime "14:55:02"]
+[Annotator "https://lichess.org/@/badblunder2001"]
+[ChapterURL "https://lichess.org/study/HIs6KLhc/JyxXAwUw"]
+[ChapterMode "gamebook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Be7 7. exd6 Qxd6 8. Nc3 O-O 9. O-O-O *
