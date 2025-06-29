@@ -4,9 +4,7 @@ This script generates a visual tree diagram of chess variations from a PGN (Port
 
 This tool is ideal for visualizing opening repertoires or analyzing complex variations from a Lichess study or other PGN source.
 
-## Example Output
-
-The script produces a graph where each node is a board position and each edge is the move that connects them. An example generated from the included `study.pgn` file is shown below:
+-----
 
 ## Requirements
 
@@ -33,6 +31,8 @@ To use this script, you will need the following installed:
         sudo apt-get install graphviz
         ```
 
+-----
+
 ## Usage
 
 Run the script from your command line, providing the path to your PGN file as the first argument and the desired name for the output image as the second.
@@ -51,6 +51,8 @@ python generate_tree.py study.pgn philidor_tree.png
 ```
 
 The script will create a temporary directory (`board_images/`) to store board snapshots and then produce the final PNG image in your current directory.
+
+-----
 
 ## PGN File Format
 
@@ -79,6 +81,8 @@ The PGN file should look like this, with distinct `[Event "..."]` headers for ea
 
 The script will correctly merge these three lines starting from the common `1. d4 d5 2. c4` sequence.
 
+-----
+
 ## How It Works
 
 The script processes the PGN data in several steps:
@@ -89,6 +93,14 @@ The script processes the PGN data in several steps:
 4.  **Prune End-Nodes**: Any terminal line that doesn't stem from a branching point is pruned. This ensures every leaf on the final diagram is a meaningful end to a variation.
 5.  **Render Image**: Finally, it traverses the processed tree and uses Graphviz to generate nodes (as board images) and edges (as move labels), rendering the final `.png` file.
 
+-----
+
+## Example Output
+
+The script produces a graph where each node is a board position and each edge is the move that connects them. An example generated from the included `study.pgn` file is shown below:
+
+-----
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License.
