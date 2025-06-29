@@ -1,7 +1,3 @@
-Of course. Here is a comprehensive README file for the script.
-
------
-
 # PGN Variation Tree Generator
 
 This script generates a visual tree diagram of chess variations from a PGN (Portable Game Notation) study file. It reads multiple game lines, merges them into a single branching tree, and uses Graphviz to create a high-quality PNG image showing the board state at each position.
