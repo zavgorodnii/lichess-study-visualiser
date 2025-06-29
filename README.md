@@ -99,6 +99,8 @@ The script processes the PGN data in several steps:
 
 The script produces a graph where each node is a board position and each edge is the move that connects them. An example generated from the included `study.pgn` file is shown below:
 
+<img src="tree.png">
+
 -----
 
 ## License
