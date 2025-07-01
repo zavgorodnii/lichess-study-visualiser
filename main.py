@@ -183,7 +183,16 @@ def generate_tree_image(root_node, output_filename='chess_tree.png'):
             # Create edges to connect this node to its children.
             for uci, child_node in current_node.children.items():
                 # Get the Standard Algebraic Notation for the edge label.
-                edge_label = current_node.board.san(child_node.move)
+                san = current_node.board.san(child_node.move)
+                
+                # Format the label with the full move number.
+                move_number = current_node.board.fullmove_number
+                if current_node.board.turn == chess.WHITE:
+                    edge_label = f"{move_number}. {san}"
+                else:
+                    # It's Black's turn, add ellipsis.
+                    edge_label = f"{move_number}. ... {san}"
+
                 # Use 'xlabel' to prevent interference with orthogonal line routing.
                 dot.edge(current_node.fen, child_node.fen, xlabel=edge_label)
                 queue.append(child_node)
